@@ -144,6 +144,7 @@ function writePassword() {
 
   // console.log(randomArray);      -randomArray check
 
+  // output
   for (var i = 0; i < parseFloat(characterLength); i++) {
     var randomNumber = Math.floor(Math.random() * randomArray.length);
 
