@@ -100,7 +100,7 @@ var schars = [
 
 function writePassword() {
   var randomArray = [];
-  var newPassword = " ";
+  var newPassword = "";
 
   // Intial prompt
   var characterLength = prompt(
