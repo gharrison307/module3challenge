@@ -26,6 +26,6 @@ The user will then confirm whether to include numbers. Select "OK" to include nu
 
 The page should then generate a password.
 
-Please find this project's hosted webpage here: https://gharrison307.github.io/module2challenge/
+Please find this project's hosted webpage here: https://gharrison307.github.io/module3challenge/
 
-Please find this project's repository page here: https://github.com/gharrison307/module2challenge
+Please find this project's repository page here: https://github.com/gharrison307/module3challenge
